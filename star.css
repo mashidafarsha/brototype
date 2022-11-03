@@ -1,0 +1,316 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    width: 100%;
+    background-color: aquamarine;
+}
+.firstbody{
+    background-image: url("https://api.starlink.com/public-files/Marketing_LandingFeatured_Redesign.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    
+    width: 100%;
+    height: 780px;
+}
+.header{
+    width: 100%;
+
+    height: 95px;
+    display: flex;
+}
+.header1{
+width: 25%;
+
+height: 95px;
+text-align: center;
+color: rgb(255, 255, 255);
+font-family: Roboto,Helvetica,sans-serif;
+letter-spacing: 4.5px;
+
+}
+.header2{
+    width: 50%;
+   
+    height: 65px;
+    padding: 45px 0 0 105px;
+    font-family: Roboto,Helvetica,sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    display: flex;
+    gap: 45px;
+
+    
+    
+}
+.header3{
+    width: 25%;
+    height: 65px;
+    font-family: Roboto,Helvetica,sans-serif;
+    padding: 45px 0 0 0 ;
+    font-size: 13px;
+    font-weight: bolder;
+    display: flex;
+    gap: 35px;
+
+}
+.secondpart{
+   
+    width: 100%;
+    height: 720px;
+}
+.secondpart1{
+   width: 100%;
+   height: 500px;
+   
+   text-align: center;
+   font-size: x-large;
+   font-family: Roboto,Helvetica,sans-serif;
+   color: white;
+   
+ 
+   
+}
+.secondpart1 p{
+    font-size:15px ;
+    margin-top: 27px;
+}
+.secondpart2{
+    width: 100%;
+    height: 10px;
+    
+    
+}
+.form{
+    margin: 0 0 0 400px;
+    
+}
+.fname{
+    width: 380px;
+    height: 45px;
+    background-color: rgba(240, 248, 255, 0.103);
+    border-width: 2px;
+    border-color: rgb(230, 236, 241);
+    border-radius: 5px;
+    color: white;
+    padding-left: 20px;
+    font-size: 9px;
+}
+.formbtn{
+    width:150px ;
+    height: 45px;
+    margin: 0 0 0 10px;
+    background-color: rgb(250, 253, 255);
+    border-width: 2px;
+    border-color: rgb(230, 236, 241);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size:11px ;
+    font-weight: bolder;
+    
+}
+.availability{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+.availability p{
+    padding-top: 15px;
+    font-size: 9px;
+    color: #88888888;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.availability p a{
+    font-size: 10px;
+    text-decoration: underline;
+}
+.secondpart2 a{
+    color: white;
+    text-decoration: none;
+    font-family: DIN_Bold,Arial,Verdana,sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+    
+}
+.secondbody{
+   width: 100%;
+   height: 700px;
+   background-color: rgb(0, 0, 0);
+   display: flex;
+}
+.firstdiv2nd{
+  width: 50%;
+  height: 700px;
+  background-color: rgba(113, 190, 139, 0.411);
+}
+.seconddiv2nd{
+    width: 50%;
+    height: 700px;
+    color: white;
+    font-family: Roboto,Helvetica,sans-serif;
+   
+   
+}
+.firstimg{
+    width: 100%;
+    height: 700px;
+}.seconddiv2nd h1{
+    padding:160px 0 0 70px;
+    font-size: 46px;
+    letter-spacing: -2px;
+    
+}.seconddiv2nd p{
+    font-size:15px ;
+    margin: 40px 170px 0 70px;
+    line-height: 20px;
+}
+.button{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    margin: 45px 0 0 75px;
+    
+   
+}
+.thirdbody{
+  width: 100%;
+  height: 550px;
+  
+  display: flex;
+}
+.firstdiv3rd{
+    width: 50%;
+    height: 550px; 
+    background-color: rgba(0, 0, 0, 0.986);
+    color: white;
+    font-family: Roboto,Helvetica,sans-serif;
+}
+.seconddiv3rd{
+    width: 50%;
+    height: 550px; 
+    background-color: rgba(27, 226, 116, 0.13);
+}
+.secondimg{
+    width: 100%;
+    height: 550px;
+}
+.firstdiv3rd h1{
+    padding:160px 0 0 70px;
+    font-size: 46px;
+    letter-spacing: -2px;
+}
+.firstdiv3rd p{
+    font-size:15px ;
+    margin: 40px 170px 0 70px;
+    line-height: 20px;
+}
+.forthbody{
+background-image: url("https://api.starlink.com/public-files/Marketing_LandingTravel_Redesign.webp");
+width: 100%;
+height: 650px;
+}
+.firstdiv4th{
+    width: 50%;
+    height: 550px; 
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    font-family: Roboto,Helvetica,sans-serif;
+}
+.firstdiv4th h1{
+    padding:160px 0 0 70px;
+    font-size: 46px;
+    letter-spacing: -2px;
+}
+.firstdiv4th p{
+    font-size:15px ;
+    margin: 40px 170px 0 70px;
+    line-height: 20px;
+}
+.fifthbody{
+    width: 100%;
+height: 690px;
+background-color: rgb(37, 37, 37);
+color: white;
+
+}
+.fifthbody h1{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 48px;
+    font-family: Roboto,Helvetica,sans-serif;
+}
+.fifthbodymaindiv{
+    display: flex;
+   
+    width: 95%;
+    height: 600px;
+    align-self: center;
+    
+    
+    
+}
+.fifthbodydivs{
+    text-align: center;
+     width: 380px;
+     height: 400px;
+    line-height: 30px;
+     margin: 50px 0 0 120px;
+    
+     
+    
+}
+
+ .fifthbodydivs h3{
+    font-family:DIN_Regular,Arial,Verdana,sans-serif ;
+   font-weight: 90;
+   font-size: 27px;
+   line-height: 35px;
+   
+   
+}  
+.fifthbodydivs p{
+    margin-top: 15px;
+    font-weight: 90;
+   font-size: 27px;
+   font-family:DIN_Regular,Arial,Verdana,sans-serif ;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 550px;
+    
+}
+.footerdiv{
+    width: 100%;
+    height: 300px;
+    padding-top: 50px;
+    display: flex;
+    
+}
+.footerdiv1{
+    width: 50%;
+    height: 250px;
+    border-right: 1px solid;
+    color: rgb(255, 255, 255);
+}
+.footer p{
+    color: white;
+    text-align: 
+    center;
+}
+.button3{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    margin: 40px 0 0 530px;
+}
